@@ -7,6 +7,8 @@ Using the data frame created visualisations, charts and graphs highlighting many
 
 Used NLTK natural langauge processing to gauge the overall sentiment of the chat.
 
+The analysis can be done both on an overall group level and on a user level as well.
+
 ![image](https://user-images.githubusercontent.com/85218416/210268442-07203595-fd61-4a6a-acd9-d6e0068dc00e.png)
 ![image](https://user-images.githubusercontent.com/85218416/210268476-7efcdbd6-6ed2-4263-935e-1323078f06f5.png)
 ![image](https://user-images.githubusercontent.com/85218416/210268499-5eca1efa-0fb1-4b00-8352-e50fc0b4f012.png)
