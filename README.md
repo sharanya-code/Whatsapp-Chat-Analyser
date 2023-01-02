@@ -7,6 +7,8 @@ Using the data frame created visualisations, charts and graphs highlighting many
 
 Used NLTK natural langauge processing to gauge the overall sentiment of the chat.
 
+Implmented the front end using stream lit for an interactive user experience.
+
 The analysis can be done both on an overall group level and on a user level as well.
 
 ![image](https://user-images.githubusercontent.com/85218416/210268442-07203595-fd61-4a6a-acd9-d6e0068dc00e.png)
